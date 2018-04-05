@@ -1,10 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Us
+permalink: /about-us/
 ---
 
-Some information about you!
+I am a zoo interpreter!
+
+# Big Header
+
+## Not as Big Header
+
+*I am italics*
+**I am bold**
 
 ### More Information
 
@@ -12,4 +19,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[I am a link](https://krogersst.github.io)
