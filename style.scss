@@ -80,7 +80,6 @@ a {
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
-  border: 1px solid black;
 }
 
 ul {
@@ -109,6 +108,10 @@ strong, b {
 
 img {
   max-width: 100%;
+}
+
+table {
+  border: 1px solid black;
 }
 
 // Fixes images in popup boxes from Google Translate
