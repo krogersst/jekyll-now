@@ -114,6 +114,12 @@ table {
   border: 1px solid black;
 }
 
+thead {
+  font-weight: bold;
+  text-align: left;
+  border-bottom: 1px solid black;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
