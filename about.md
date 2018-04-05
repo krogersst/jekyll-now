@@ -20,3 +20,7 @@ A place to include any other types of information that you'd like to include abo
 ### Contact me
 
 [I am a link](https://krogersst.github.io)
+
+1. Number One
+    * Sub list
+2. Number Two
