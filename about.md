@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-permalink: /about-us/
+permalink: /about/
 ---
 
 I am a zoo interpreter!
